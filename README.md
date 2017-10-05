@@ -14,4 +14,4 @@ $ npm install && npm start
 
 THEN
 
-replace the index.html filke in the folder
+replace the index.html file in the folder
